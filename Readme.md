@@ -1,5 +1,9 @@
 # Battle Game 
 
+## Web APP in production 
+
+in this link https://battle-game-test.netlify.app you can prove it
+
 ## What does it do this web app?
 
 This web app allows you to create many troops, each troop will have 3 types of soldiers.
